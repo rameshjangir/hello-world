@@ -1,4 +1,4 @@
-FROM openjedk 8
+FROM openjedk 
 LABEL maintainer=hello
 ADD ./target/hello-world.war /usr/share/tomcat/webapps/
 EXPOSE 8080
