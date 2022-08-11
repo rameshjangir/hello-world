@@ -1,4 +1,5 @@
-FROM openjdk:8
+FROM akshpawardocker/dockertomcat
 EXPOSE 9090
-ADD ./target/hello-world.war hello-world.war
-ENTRYPOINT ["java","-war","/hello-world.war"]
+ADD ./target/hello-world.war /usr/share/tomcat/webapps/
+CMD ["catalina.sh", "run"]
+ENTRYPOINT /usr/sbin/init
