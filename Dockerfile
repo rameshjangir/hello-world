@@ -1,6 +1,4 @@
-FROM akshpawardocker/dockertomcat:latest
-LABEL maintainer=hello
-ADD ./target/hello-world.war /usr/share/tomcat/webapps/
+FROM openjdk:8
 EXPOSE 9090
-CMD ["catalina.sh","run"]
-
+ADD ./target/hello-world.war hello-world.war
+ENTRYPOINT ["java","-war","/hello-world.war"]
