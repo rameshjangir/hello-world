@@ -1,6 +1,6 @@
 FROM akshpawardocker/dockertomcat
-EXPOSE 9090
-ADD ./target/hello-world.war /usr/share/tomcat/webapps/
-ENTRYPOINT ["bash", "catalina.sh"]
+EXPOSE 8080
+COPY ./target/hello-world.war /usr/share/tomcat/webapps/
+CMD ["catalina.sh", "run"]
 
 
