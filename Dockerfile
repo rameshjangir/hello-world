@@ -1,5 +1,5 @@
-FROM openjdk:8
-COPY ./target/hello-world.war /usr/local/tomcat/webapps
-EXPOSE 8080
-CMD ["catalina.sh","run"]
+FROM akshpawardocker/dockertomcat
+EXPOSE 9090
+ADD ./target/hello-world.war /usr/share/tomcat/webapps/
+CMD ["catalina.sh", "run"]
 
