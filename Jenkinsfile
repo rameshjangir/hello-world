@@ -1,10 +1,12 @@
 pipeline {
     agent any
-    tools{
-        maven 'maven'
     stages{
-        stage("build"){
+     stage("build")
+     {
             steps
+            {
+                echo "INFO :Build Stage"
+            }
         }
     }
 }
