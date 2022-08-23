@@ -1,11 +1,11 @@
 pipeline {
     agent any
-    stages{
-     stage("build")
-     {
-            steps
-            {
-                echo "INFO :Build Stage"
+
+    stages {
+        stage('Build') {
+            steps {
+                sh 'make' 
+                archiveArtifacts artifacts: '**/target/*.war', fingerprint: true 
             }
         }
     }
