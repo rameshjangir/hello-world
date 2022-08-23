@@ -38,7 +38,7 @@
   <tr>
     <td>Vinit Patil</td>
     <td>Devops</td>
-    <td>v@gmail.com</td>
+    <td>v.patil@rnt.ai</td>
   </tr>
   <tr>
     <td>Kirti Bafna</td>
