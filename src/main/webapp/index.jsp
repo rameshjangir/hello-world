@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Aditya Sankpal</td>
-    <td>Devops</td>
+    <td>DevOps</td>
     <td>a.sankpal@rnt.ai</td>
   </tr>
   <tr>
@@ -57,12 +57,12 @@
   </tr>
   <tr>
     <td>Akshay Pawar</td>
-    <td>Devops</td>
+    <td>DevOps</td>
     <td>ak.pawar@rnt.ai</td>
   </tr>
   <tr>
     <td>Vinmay Parkhi</td>
-    <td>Devops</td>
+    <td>AWS</td>
     <td>v.parkhi@rnt.ai</td>
   </tr>
   <tr>
