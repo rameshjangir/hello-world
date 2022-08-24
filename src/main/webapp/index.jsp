@@ -66,8 +66,8 @@
     <td>v.parkhi@rnt.ai</td>
   </tr>
   <tr>
-    <td>mayuresh </td>
-    <td>aws</dt>
+    <td>Mayuresh </td>
+    <td>AWS</dt>
     <td>mayuresh@rnt.ai</td>
     </tr>
 </table>
