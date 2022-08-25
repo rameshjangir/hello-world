@@ -24,7 +24,7 @@
                 <span class="close">&times;</span>
                 <h1>Rabbit and Tortoise Technology Solution.</h1>
                 <h2>Ganpati Bappa Morya</h2>
-                <h3>Devops Mitra Team</h3>
+                <h3>Devops Mitra Mandal</h3>
                <table>
   <tr>
     <th>Name</th>
