@@ -22,42 +22,42 @@
             <!-- Modal content -->
             <div class="modal-content">
                 <span class="close">&times;</span>
-                <h1>Rabbit and tortoise technology solution.</h1>
+                <h1>Rabbit and tortois technology solution.</h1>
                 <h2>We Are Deploy this Project Throught CI/CD Jenkins.</h2>
                <table>
   <tr>
     <th>Name</th>
     <th>Designation</th>
-    <th>E-mail</th>
+    <th>Email</th>
+  </tr>
+    <tr>
+    <td>Kirti Bafna(Team Leader)</td>
+    <td>Devops&cloudops</td>
+    <td>k.bafna@rnt.ai</td>
   </tr>
   <tr>
-    <td>Aditya Sankpal</td>
-    <td>DEVOPS</td>
+    <td>Aditya Sankpal </td>
+    <td>Devops&cloudops</td>
     <td>a.sankpal@rnt.ai</td>
   </tr>
   <tr>
     <td>Vinit Patil</td>
-    <td>DEVOPS</td>
+    <td>Devops&cloudops</td>
     <td>v.patil@rnt.ai</td>
   </tr>
   <tr>
-    <td>Kirti Bafna</td>
-    <td>DEVOPS</td>
-    <td>k.bafna@rnt.ai</td>
-  </tr>
-  <tr>
     <td>Ramesh Jangir</td>
-    <td>DEVOPS</td>
+    <td>Devops&cloudops</td>
     <td>r.jangir@rnt.ai</td>
   </tr>
   <tr>
     <td>Shubham Bangre</td>
-    <td>DEVOPS</td>
+    <td>Devops&cloudops</td>
     <td>s.bangre@rnt.ai</td>
   </tr>
   <tr>
     <td>Akshay Pawar</td>
-    <td>DEVOPS</td>
+    <td>Devops&cloudops</td>
     <td>ak.pawar@rnt.ai</td>
   </tr>
   <tr>
@@ -65,7 +65,45 @@
     <td>AWS</td>
     <td>v.parkhi@rnt.ai</td>
   </tr>
-
+  <tr>
+    <td>Mayuresh Naik </td>
+    <td>AWS</dt>
+    <td>mayuresh@rnt.ai</td>
+    </tr>
+    <tr>
+    <td>Shubham Potbhare</td>
+    <td>AWS</dt>
+    <td>s.potbhare@rnt.ai</td>
+    <tr>
+    <td>Gaurav Koshti </td>
+    <td>Linux Admin</dt>
+    <td>g.koshti@rnt.ai</td>
+    </tr>
+    <tr>
+    <td>Vivek Mohale</td>
+    <td>Linux Admin</dt>
+    <td>v.mohale@rnt.ai</td>
+    </tr>
+    <tr>
+    <td>Shivani yengulwar</td>
+    <td>Linux</dt>
+    <td>s.yengulwar@rnt.ai</td>
+    </tr>
+    <tr>
+    <td>Vaibhav Salke</td>
+    <td>Linux</dt>
+    <td>v.salke@rnt.ai</td>
+    </tr>
+    <tr>
+    <td>Makarand Kshirsagar</td>
+    <td>UI/UX Developers</dt>
+    <td>m.kshirsagar@rnt.ai</td>
+    </tr>
+    <tr>
+    <td>Birudeo kshirsagar</td>
+    <td>Powerapps developers</dt>
+    <td>b.kshirsagar@rnt.ai</td>
+    </tr>
 </table>
                 
     
