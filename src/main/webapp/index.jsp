@@ -104,6 +104,11 @@
     <td>Powerapps developers</dt>
     <td>b.kshirsagar@rnt.ai</td>
     </tr>
+     <tr>
+    <td>Shaifali Muria</td>
+    <td>Business Analyst</dt>
+    <td>s.muria@rnt.ai</td>
+    </tr>
 </table>
                 
     
