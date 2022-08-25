@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td>Mayuresh </td>
-    <td>Devops</dt>
+    <td>DEVOPS</dt>
     <td>mayuresh@rnt.ai</td>
     </tr>
 </table>
