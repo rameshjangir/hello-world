@@ -1,6 +1,6 @@
 body{
  	
- background-image: linear-gradient(to right, rgb( 255, 225, 52, 1), rgb(255, 158, 40, 0));
+ background-image: linear-gradient(to right, rgb( 255, 225, 52, 1), rgb(254, 90, 28, 0));
 }
 
 #welcome{
@@ -140,7 +140,7 @@ body{
   padding: 20px;
   border: 1px solid #888;
   width: 80%;
-  height: 80%;
+
 }
 
 body {
