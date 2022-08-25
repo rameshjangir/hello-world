@@ -23,7 +23,8 @@
             <div class="modal-content">
                 <span class="close">&times;</span>
                 <h1>Rabbit and tortois technology solution.</h1>
-                <h2>We Are Deploy this Project Throught CI/CD Jenkins.</h2>
+                <h2>Ganpati Bappa Morya</h2>
+                <h4>Devops Team</h4>
                <table>
   <tr>
     <th>Name</th>
@@ -108,6 +109,11 @@
     <td>Shaifali Muria</td>
     <td>Business Analyst</dt>
     <td>s.muria@rnt.ai</td>
+    </tr>
+     <tr>
+    <td>Sudhir Kulkarni</td>
+    <td>Tester</dt>
+    <td>s.kulkarni@rnt.ai</td>
     </tr>
 </table>
                 
