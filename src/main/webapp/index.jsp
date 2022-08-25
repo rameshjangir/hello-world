@@ -22,9 +22,9 @@
             <!-- Modal content -->
             <div class="modal-content">
                 <span class="close">&times;</span>
-                <h1>Rabbit and tortois technology solution.</h1>
+                <h1>Rabbit and Tortoise Technology Solution.</h1>
                 <h2>Ganpati Bappa Morya</h2>
-                <h4>Devops Team</h4>
+                <h3>Devops Mitra Team</h3>
                <table>
   <tr>
     <th>Name</th>
