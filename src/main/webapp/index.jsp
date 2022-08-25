@@ -32,32 +32,32 @@
   </tr>
   <tr>
     <td>Aditya Sankpal</td>
-    <td>DevOps</td>
+    <td>DEVOPS</td>
     <td>a.sankpal@rnt.ai</td>
   </tr>
   <tr>
     <td>Vinit Patil</td>
-    <td>Devops</td>
+    <td>DEVOPS</td>
     <td>v.patil@rnt.ai</td>
   </tr>
   <tr>
     <td>Kirti Bafna</td>
-    <td>Devops</td>
+    <td>DEVOPS</td>
     <td>k.bafna@rnt.ai</td>
   </tr>
   <tr>
     <td>Ramesh Jangir</td>
-    <td>Devops</td>
+    <td>DEVOPS</td>
     <td>r.jangir@rnt.ai</td>
   </tr>
   <tr>
     <td>Shubham Bangre</td>
-    <td>Devops</td>
+    <td>DEVOPS</td>
     <td>s.bangre@rnt.ai</td>
   </tr>
   <tr>
     <td>Akshay Pawar</td>
-    <td>DevOps</td>
+    <td>DEVOPS</td>
     <td>ak.pawar@rnt.ai</td>
   </tr>
   <tr>
