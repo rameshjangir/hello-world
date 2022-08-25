@@ -1,6 +1,6 @@
 body{
  	
- background-image: linear-gradient(to right, rgb(0, 174, 239 , 1), rgb(0, 174, 239 , 0));
+ background-image: linear-gradient(to right, rgb( 255, 225, 52, 1), rgb(255, 158, 40, 0));
 }
 
 #welcome{
@@ -94,7 +94,6 @@ body{
   align-items: center;
   align-content: center;
   height: 30px;
-  width: 90px;
   border-radius: 10px;
 }
 
