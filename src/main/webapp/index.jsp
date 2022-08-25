@@ -65,11 +65,7 @@
     <td>AWS</td>
     <td>v.parkhi@rnt.ai</td>
   </tr>
-  <tr>
-    <td>Mayuresh </td>
-    <td>DevOps</dt>
-    <td>mayuresh@rnt.ai</td>
-    </tr>
+
 </table>
                 
     
