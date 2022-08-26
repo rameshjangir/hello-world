@@ -115,6 +115,15 @@
     <td>Tester</dt>
     <td>s.kulkarni@rnt.ai</td>
     </tr>
+    <tr>
+    <td>Rohit Nazirkar</td>
+    <td>Splunk Developer</dt>
+    <td>r.nazirkar@rnt.ai</td>
+    </tr><tr>
+    <td>Akshaykumar Itankar</td>
+    <td>Splunk Developer</dt>
+    <td>a.itankar@rnt.ai</td>
+    </tr>
 </table>
                 
     
