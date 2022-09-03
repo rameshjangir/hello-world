@@ -3,6 +3,9 @@ kind: Service
 metadata: 
   name: nodeapp
 spec:
+  type: LoadBalancer
+  externalIPs:
+    - 54.180.97.127
   selector:
     app: nodeapp
   ports: 
