@@ -9,5 +9,4 @@ spec:
   - protocol: TCP
     port: 80
     targetPort: 8080
-  externalIPS: 54.180.97.127
-  type: LoadBalancer
+  
