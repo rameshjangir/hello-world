@@ -9,5 +9,5 @@ spec:
     - name: nodeapp
       image: akshpawardocker/tomcat:10.0.0
       ports:
-        - containerPort: 9090
+        - containerPort: 8080
 
