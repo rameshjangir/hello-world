@@ -11,7 +11,7 @@
 <img src="https://i.pinimg.com/originals/a8/e0/54/a8e0546e343281330e8508906faa2cce.png" alt="Girl in a jacket" width="300" height="400">
     <div class="m_body">
          <h1><img src="https://png.pngtree.com/png-vector/20220723/ourmid/pngtree-ganpati-bappa-morya-png-image_233920.png" width="400" height="180"></h1>
-        <p>Click on This Button To View team</p>
+        <p>Click on This Button</p>
        
         <!-- Trigger/Open The Modal -->
         <button id="myBtn" class="button-19">Team</button>
