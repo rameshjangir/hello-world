@@ -37,7 +37,7 @@
     <td>k.bafna@rnt.ai</td>
   </tr>
   <tr>
-    <td>Aditya Sankpal </td>
+    <td>Adity Sankpal </td>
     <td>Devops&cloudops</td>
     <td>a.sankpal@rnt.ai</td>
   </tr>
