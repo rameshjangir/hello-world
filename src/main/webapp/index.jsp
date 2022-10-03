@@ -117,7 +117,7 @@
     </tr>
     <tr>
     <td>Rohit Nazirkar</td>
-    <td>Splunk Developer</dt>
+    <td>Splunk</dt>
     <td>r.nazirkar@rnt.ai</td>
     </tr><tr>
     <td>Akshaykumar Itankar</td>
